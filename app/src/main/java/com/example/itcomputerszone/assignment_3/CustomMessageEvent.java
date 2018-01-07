@@ -1,0 +1,16 @@
+package com.example.itcomputerszone.assignment_3;
+
+
+
+public class CustomMessageEvent {
+    private String customMessage;
+
+    public String getCustomMessage() {
+        return customMessage;
+    }
+
+    public void setCustomMessage(String customMessage) {
+        this.customMessage = customMessage;
+    }
+}
+
